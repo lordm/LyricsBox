@@ -7,7 +7,7 @@ A Rhythmbox lyrics viewer plugin to show lyrics Karaoke-style.
 I used to be a big fan of MiniLyrics back then at Windows days.
 Then After migrating to Ubuntu didn't find a good equivalent for it.
 (osd-lyrics is good but not as customizable nor stable as MiniLyrics)
-So i decided to write my own plugin specially for RhythmBox.
+So i decided to write my own plugin specially for Rhythmbox.
 
 Current Status:
 ===============
