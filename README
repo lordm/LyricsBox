@@ -1,0 +1,42 @@
+LyricsBox (Still Under Development)
+
+Description:
+============
+A Rhythmbox lyrics viewer plugin to show lyrics Karaoke-style.
+
+I used to be a big fan of MiniLyrics back then at Windows days.
+Then After migrating to Ubuntu didn't find a good equivalent for it.
+(osd-lyrics is good but not as customizable nor stable as MiniLyrics)
+So i decided to write my own plugin specially for RhythmBox.
+
+Current Status:
+===============
+- Load existing .lrc files from a specific directory.
+- Show Lyrics synchronously with playing track in a very simple window.
+
+TODOs:
+======
+Parser:
+- Fix Parser problems with some .lrc files.
+- Handle loading files having variations from the track name.
+
+Fetcher:
+- Implement a Lyrics Fetcher for new tracks not having existing lyrics files.
+
+Plugin:
+- Implement an options dialog to store lyrics directory path and other needed options.
+- Enhance Performance if needed.
+
+Viewer:
+- More UI enhancements.
+- More Customization options to the viewer.
+
+Authors:
+========
+Marwan Osman <lordm2005@gmail.com>
+
+Resources:
+==========
+- http://live.gnome.org/RhythmboxPlugins/WritingGuide
+- http://developer.gnome.org/rhythmbox/unstable/
+- http://google.com

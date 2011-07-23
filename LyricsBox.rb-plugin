@@ -1,0 +1,9 @@
+[RB Plugin]
+Loader=python
+Module=LyricsBox
+IAge=1
+Name=LyricsBox
+Description=A python plugin to show lyrics like OSD
+Authors=Marwan Osman <lordm2005@gmail.com>
+Copyright=Copyright © 2011 lordm
+Website=http://marwanosman.blogspot.com/
